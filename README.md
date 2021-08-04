@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src=".img/Bubbles-Logo.png" alt="Logo" width="600" height="400">
+    <img src=".img/Bubbles-Logo.png" alt="Logo" width="500" height="400">
   </a>
   
   <h3 align="center">Bubbles Nitro Gen & Check</h3>
