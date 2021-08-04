@@ -1,5 +1,15 @@
-<h3 align="center">Bubbles Nitro Generator 🧼</h3>
-<h4 align="center"> Bubbles is The best Discord Nitro Gift generator and checker created by AfraL </h3>
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src=".img/Bubbles-Logo.PNG" alt="Logo" width="150" height="150">
+  </a>
+  
+  <h3 align="center">Bubbles Nitro Gen & Check</h3>
+
+  <p align="center">
+    A powerful discord nitro generator and checker with http proxies servers
+    <br />
+  </p>
+</p>
 
 <p align="center">
 <img align="center" src=".img/Bubbles.PNG" width="900">
