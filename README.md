@@ -7,6 +7,7 @@
 
   <p align="center">
     A powerful discord nitro generator and checker with http proxies servers
+  <a href="https://github.com/Its-AfraL"><strong>Explore my Github »</strong></a>
     <br />
   </p>
 </p>
