@@ -1,4 +1,4 @@
-<h3 align="center"Bubbles Nitro Generator 🧼</h3>
+<h3 align="center">Bubbles Nitro Generator 🧼</h3>
 <h4 align="center"> Bubbles is The best Discord Nitro Gift generator and checker created by AfraL </h3>
 
 <p align="center">
