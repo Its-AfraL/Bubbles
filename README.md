@@ -1,12 +1,13 @@
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src=".img/Bubbles-Logo.png" alt="Logo" width="560" height="350">
+    <img src=".img/Bubbles-Logo.png" alt="Logo" width="570" height="350">
   </a>
   
   <h3 align="center">Bubbles Nitro Gen & Check</h3>
 
   <p align="center">
     A powerful discord nitro generator and checker with http proxies servers
+  <br />
   <a href="https://github.com/Its-AfraL"><strong>Explore my Github »</strong></a>
     <br />
   </p>
